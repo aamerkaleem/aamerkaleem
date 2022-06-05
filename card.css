@@ -1,0 +1,69 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url(https://images.unsplash.com/photo-1589810264340-0ce27bfbf751?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fGNvbG9yJTIwYmFja2dyb3VuZHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family:Arial ;
+    
+}
+.card{
+    width: 300px;
+    height: 450px;
+    background-color: white;
+    background-image: url("https://images.unsplash.com/photo-1541701494587-cb58502866ab?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y29sb3IlMjBiYWNrZ3JvdW5kfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60");
+    background-repeat: no-repeat;
+    background-size: 300px 250px;
+    border-radius: 6px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    box-shadow: 0px 1px 10px 1px #34495e;
+    overflow: hidden;
+    display: inline-block;
+
+}
+.uparcard h3{
+    text-align: center;
+    color: white;
+    border: 1px solid skyblue;
+    background-color: #0652DD;
+    padding-top: 2px;
+    margin-top: 40%;  
+}
+.lowercard{
+    margin-top: 40%;
+    text-align: center;
+}
+/* button{
+    background-color: #78e08f;
+    color: white;
+    padding: 7px 30px 7px 30px;
+    border: 2px solid white;
+    border-radius: 40px;
+    margin-top: 10px;
+    cursor: pointer;
+} */
+.lowercard .btn{
+    padding: 12px 12px;
+    background: #5758BB;
+    border: none;
+    color: white;
+    border-radius: 30px;
+    font-size: 12px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: all .3s ease-in;
+    position: relative;
+    left: 5px;
+    top: 10px;
+}
+.lowercard .btn:hover{
+    background: transparent;
+    color: #5758BB;
+    border: 2px solid #5758BB;
+}
+
+
+

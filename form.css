@@ -1,0 +1,20 @@
+.form1{
+    background-color: cadetblue;
+    width: 30%;
+    border: 2px solid blue;
+    padding: 10px 20px 50px 40px;
+    margin-left: 30%;
+    
+}
+.div4{
+    background-image: url(https://miro.medium.com/max/1000/1*ZhuqSg8Jmz4p8H6X5U1uzQ.png);
+    background-size: cover;
+    
+}
+
+
+.button{
+    color: chartreuse;
+    width: 30%;
+    border-radius: 40px 20px 30px 60px;
+}

@@ -1,0 +1,55 @@
+.parent{
+    background-color: #0097e6;
+    width: 50%;
+
+}
+.child{
+
+    background-color: #fbc531;
+    width: 30%;
+    border: 2px solid orangered;
+    padding: 0px 40px 80px 0px;
+}
+.parent2{
+    background-color: #009432;
+    width: 50%;
+}
+.child2{
+    background-color: #D980FA;
+    width: 30%;
+    border:2px solid #ED4C67;
+    padding: 10px 100px 20px ;
+}
+.parent3{
+    background-color: palegoldenrod;
+    width: 30%;
+}
+.child3{
+    background-color: palegreen;
+    width: 40%;
+    border: 2px solid brown;
+    padding: 80px 10px;
+}
+.parent4{
+    background-color: cornsilk;
+    width: 30%;
+}
+.child4{
+    background-color: darkcyan;
+    width: 30;
+    border: 2px solid khaki;
+    padding: 80px;
+}
+.parent5{
+    background-color: lightcoral;
+    width: 50%;
+    border: 5px solid olive;
+}
+.child5{
+    background-color: palegreen;
+    width: 30%;
+    border:2px solid navy ;
+    padding: 20px 10px;
+    margin: 50px;
+
+}

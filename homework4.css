@@ -1,0 +1,95 @@
+body{
+    margin: 0; 
+    padding: 0;
+    background-color:#778beb;
+    font-family: Arial;
+    box-sizing: border-box;
+}
+.card{
+    width: 300px;
+    height: 450px;
+    background: #95afc0;
+    border-radius: 6px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    box-shadow: 0px 1px 10px 1px #000;
+    overflow: hidden;
+    display: inline-block;
+}
+.uparcard{
+    height: 150px;
+    background: #eb4d4b;
+
+}
+.lowercard{
+    height:280px;
+    background: #833471;
+    padding: 20px;
+    padding-top: 40px;
+    text-align: center;
+
+}
+.lower h3,h4{
+    box-sizing: border-box;
+    line-height: .6;
+    font-weight: lighter;
+    text-align: center;
+    padding-top: 30px;
+    text-shadow:1px 0px 1px white;
+    
+}
+.lower h4{
+    color: #6F1E51;
+    opacity: .6;
+    font-weight: bold;
+    
+}
+.imagecard{
+    background:white;
+    width: 80px;
+    height: 80px;
+    border-radius:50%;
+    padding: 5px;
+    transform: translate(100px, 100px);
+
+}
+.imagecard img{
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+
+}
+.lower p{
+    font-size: 16px;
+    color:#6F1E51;
+    margin-bottom: 30px;
+    text-align: center;
+    
+
+}
+.lower .btn{
+    padding: 12px 12px;
+    background: #5758BB;
+    border: none;
+    color: white;
+    border-radius: 30px;
+    font-size: 12px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: all .3s ease-in;
+    position: relative;
+    left: 100px;
+
+}
+.lower .btn:hover{
+    background: transparent;
+    color: #5758BB;
+    border: 2px solid #5758BB;
+}
+
+
+    
+
+

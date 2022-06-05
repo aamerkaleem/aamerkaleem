@@ -1,0 +1,21 @@
+
+Your work
+Assigned
+Private comments
+body{
+    background-image: url("https://tse4.mm.bing.net/th?id=OIP.86zja7WAkbP-nntIbFMg6AHaEo&pid=Api&P=0&w=293&h=183");
+    background-repeat: no-repeat;
+    background-position: 150px 100px;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.div1{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    box-shadow: 10px 10px 10px 10px yellow;
+}
+.head{
+    color: aqua;
+    text-shadow: 5px 5px 5px red;
+}

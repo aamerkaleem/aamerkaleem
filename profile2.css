@@ -1,0 +1,85 @@
+body{
+    margin:0;
+    padding: 0;
+    height: 400px;
+    margin-top: 200px;
+    margin-left: 290px;
+    padding: 0;
+    background-color: #f368e0;
+}
+
+.div{
+    height: 450px;
+    width: 300px;
+    background-color:#353b48;
+    border-radius: 20px;
+    text-align: center;
+    margin-left: 200px;
+    padding-top: 10px;
+    color: white;
+    box-shadow: 2px 2px 3px white;
+    position: absolute;
+    
+    font-family: monospace;
+   
+}
+.div img{
+    border-radius: 50%;
+    
+
+    
+     
+}
+.div #msg{
+    background-color: #f368e0;
+    color: white;
+    box-shadow: 2px 1px 2px #f368e0;
+} 
+.div #Follow{
+    background-color: #353b48;
+    color:dodgerblue ;
+    box-shadow: 2px 1px 2px #f368e0;
+}
+.div h1{
+    font-size: 20px;
+    text-shadow: 1px 2px 2px #f368e0;
+    
+}
+.div2 p{
+    border: 1px solid pink;
+    width: 50px;
+    
+}
+.div h3{
+    background-color: #EAB543;
+    width: 50px;
+    margin-left: 20px;
+    border-radius: 5px;
+}
+.div2 .p1{
+    width: 100px;
+    
+}
+.div .Javascript{
+    width: 25%;
+}
+
+
+@media screen and (max-width :600px){ 
+    .div{
+       position: absolute;
+       right: 15%;
+
+        
+    }
+    
+}
+@media  screen and (min-width:601px) and (max-width:900px) {
+    .div{
+        position: absolute;
+        right: 30%;
+        background-color: yellow;
+       
+    }
+    
+}

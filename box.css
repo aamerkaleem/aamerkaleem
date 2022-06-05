@@ -1,0 +1,47 @@
+
+ /* backgroup origin */
+/* body{
+         background-image: url(khabib.jpg);
+         background-size: auto;
+     }
+     .box{
+         height: 450px;
+         width: 500px;
+         margin: 50px;
+         color: brown;
+         background-color: rgba(0, 0, 0, .5);
+         border: 40px dotted slateblue;
+         padding: 40px;
+         background-image: url(moon.jpg);
+         background-repeat: no-repeat;
+         background-size: cover;
+         background-origin: border-box;
+     }
+     .box p{
+         margin: 20px 0px 0px 0px;
+         float: left;
+         text-shadow: 2px 2px 2px blue;
+         font-family: tomato;
+     }
+     .box h1{
+         font-size: 55px;
+     } */
+     .box{
+         width: 640px;
+         height: 400px;
+         margin: 50px auto;
+         color: salmon;
+         border: 40px dotted springgreen;
+         padding: 40px;
+         background-color: steelblue;
+         background-clip: content-box;
+     }
+     .box p{
+         margin: 20px 0px 0px 0px;
+         float: left;
+         font-family: tomato;
+     }
+     .box h1{
+         font-size: 55px;
+         font-family: tomato;
+     }

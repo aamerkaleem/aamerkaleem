@@ -1,0 +1,98 @@
+/* *{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    background-color: #3498db;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+.logo{
+    margin-left: 20px;
+    font-size: 20px;
+    color: aliceblue;
+    text-shadow: 3px 3px 3px black;
+}
+.logo:hover{
+    color: red;
+    text-shadow:3px 3px 3px white ;
+}
+ul li{
+float: left;
+margin-right: 40px;
+list-style: none;
+}
+ul li a{
+    text-decoration: none;
+    font-size: 20px;
+    color: aliceblue;
+}
+ul li a:hover{
+background-color: red;
+border-radius: 5px;
+padding: 5px;
+transition: 2s linear;
+}
+.ddown{
+    border: 2px solid black;
+    position: absolute;
+    background-color: #e67e22;
+    display: none;
+}
+.ddown li{
+    margin: 10px 0;
+    border-bottom: 2px solid black;
+    width: 200px;
+    text-align: center;
+}
+.ddown li a{
+    padding: 10px;
+}
+.ddown:hover .ddown {
+    display: block;
+    display: grid;
+} */
+
+
+*{
+    margin: 0;
+    padding: ;
+}
+nav{
+    background-color:#3498ab;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+.logo{
+    margin-left: 20px;
+    font-size: 40px;
+    color:aliceblue;
+    text-shadow: 3px 3px 3px black;
+
+
+}
+ul li{
+    float: left;
+    margin-right: 20px;
+    list-style: none;
+}
+ul li a{
+    text-decoration: none;
+    font-size: 20px;
+    color: aliceblue;
+
+}
+
+.contant{
+
+    display: grid;
+    background-color: brown;
+    border: 1px solid black;
+    display: none;
+}
+.ddown:hover .contant{
+    display:block;
+    display: grid;
+}

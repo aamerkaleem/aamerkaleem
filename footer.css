@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    background-color: black;
+    color: white;
+    background-image: url("https://media.istockphoto.com/photos/blue-triangle-fire-flames-frame-on-black-background-picture-id477407614?k=20&m=477407614&s=170667a&w=0&h=7sXVgHzk35R-d4lgAeVdY26cZ5ubichcbTeopqhv_r4=");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-size: 40% 110%;
+    background-position-x:50% ;
+    back
+    
+    
+    
+    
+   
+
+}
+
+.copy{
+    background-color:green;
+    text-align: center;
+}
+.name{
+    text-align: center;
+    position: relative;
+    top: 50px;
+
+
+   
+}
+
+
+ul li a{
+    padding-left: 50px;
+    position: relative;
+    bottom: 30px;
+    text-decoration: none;
+    color: white;
+    display:inline-block;
+}

@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    background-color:black;
+    width: 2000px;
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+    position: relative;
+    top:50px;
+    left: 100px;
+    box-shadow: 3px 3px 3px white;
+}
+.logo{
+    margin-left: 50px;
+    font-size: 30px;
+    color: white;
+    text-shadow: 3px 3px 3px white;
+}
+ul li{
+    float: left;
+    margin-right: 220px;
+    list-style: none;
+}
+ul li a{
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+}
+body{
+    background-color: blue;
+    background-size: cover;
+}
